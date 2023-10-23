@@ -1,0 +1,24 @@
+.main-form{
+    margin-top: 100px;
+    text-align: center;
+    width: 800px;
+    background-color: aqua;
+    margin-left: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 50px;
+}
+.form-floating{
+    width: 500px;
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
+.email {
+    display: flex;
+}
+#button {
+    border-radius: 10px;
+}
+#details {
+    color: whitesmoke;
+}
